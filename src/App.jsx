@@ -20,7 +20,7 @@ function App() {
               <MenuTrigger
                 as={Button}
                 variant="subtle"
-                colorScheme="neutral">
+                colorScheme="info">
                 {opened() ? "Options" : "Option 1"}
               </MenuTrigger>
               <MenuContent>

@@ -32,3 +32,15 @@ Your app is ready to be deployed!
 ## Deployment
 
 You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+
+
+
+### CODE
+
+<img width="1440" alt="Screen Shot 2022-09-04 at 8 24 18 PM" src="https://user-images.githubusercontent.com/75253527/188319801-fa255ce9-3f4e-4413-a634-1fb633b17695.png">
+
+
+### OUTPUT
+<img width="1440" alt="Screen Shot 2022-09-04 at 8 24 32 PM" src="https://user-images.githubusercontent.com/75253527/188319810-5346eb95-13a1-4476-b807-45aff35fc62e.png">
+
+<img width="1440" alt="Screen Shot 2022-09-04 at 8 24 40 PM" src="https://user-images.githubusercontent.com/75253527/188319816-74656825-884a-4f23-bcda-e46d47402e12.png">
